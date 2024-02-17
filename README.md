@@ -1,3 +1,11 @@
+
+# Grannycart theme experiments
+* trying to convert to local copy only, following these instructions: https://www.jekyll.com.cn/docs/themes/#converting-gem-based-themes-to-regular-themes
+
+
+--------------------------------------------------------------------------------
+
+
 # no style, please!
 
 <img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
